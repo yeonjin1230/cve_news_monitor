@@ -274,6 +274,101 @@
       "base_score": 7.1,
       "severity": "HIGH",
       "discovered_at": "2026-10-23T20:04:01.279564"
+    },
+    "CVE-2026-114612": {
+      "base_score": 9.9,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-23T11:33:49.944510"
+    },
+    "CVE-2022-51026": {
+      "base_score": 9.8,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-23T11:33:49.945515"
+    },
+    "CVE-2026-114611": {
+      "base_score": 9.1,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-23T11:33:49.946391"
+    },
+    "CVE-2026-108358": {
+      "base_score": 8.8,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.947186"
+    },
+    "CVE-2026-108359": {
+      "base_score": 8.7,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.947954"
+    },
+    "CVE-2026-114519": {
+      "base_score": 8.6,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.948749"
+    },
+    "CVE-2026-115353": {
+      "base_score": 8.6,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.949667"
+    },
+    "CVE-2026-113874": {
+      "base_score": 8.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.950399"
+    },
+    "CVE-2026-97635": {
+      "base_score": 8.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.951238"
+    },
+    "CVE-2026-13599": {
+      "base_score": 7.8,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.952016"
+    },
+    "CVE-2026-114648": {
+      "base_score": 7.6,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.952761"
+    },
+    "CVE-2026-113873": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.953586"
+    },
+    "CVE-2026-114613": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.954396"
+    },
+    "CVE-2026-115347": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.955162"
+    },
+    "CVE-2026-115348": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.956385"
+    },
+    "CVE-2026-115349": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.957226"
+    },
+    "CVE-2026-115352": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.958017"
+    },
+    "CVE-2026-115355": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.958810"
+    },
+    "CVE-2026-93336": {
+      "base_score": 7.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-23T11:33:49.959762"
     }
   },
   "processed_news": {
@@ -426,6 +521,16 @@
       "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
       "source": "SecurityWeek",
       "discovered_at": "2026-10-23T20:04:01.298023"
+    },
+    "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html": {
+      "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "source": "The Hacker News",
+      "discovered_at": "2026-10-23T11:33:49.960541"
+    },
+    "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html": {
+      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "source": "The Hacker News",
+      "discovered_at": "2026-10-23T11:33:49.961349"
     }
   }
 }
