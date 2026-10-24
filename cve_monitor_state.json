@@ -369,6 +369,251 @@
       "base_score": 7.1,
       "severity": "HIGH",
       "discovered_at": "2026-10-23T11:33:49.959762"
+    },
+    "CVE-2026-63244": {
+      "base_score": 9.8,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.618521"
+    },
+    "CVE-2026-112862": {
+      "base_score": 9.8,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.619680"
+    },
+    "CVE-2026-25784": {
+      "base_score": 9.8,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.620614"
+    },
+    "CVE-2026-54630": {
+      "base_score": 9.6,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.621491"
+    },
+    "CVE-2026-55981": {
+      "base_score": 9.6,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.622258"
+    },
+    "CVE-2025-30047": {
+      "base_score": 9.4,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.623037"
+    },
+    "CVE-2025-30050": {
+      "base_score": 9.4,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.623824"
+    },
+    "CVE-2026-19677": {
+      "base_score": 9.3,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.624689"
+    },
+    "CVE-2025-30054": {
+      "base_score": 9.3,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.625476"
+    },
+    "CVE-2026-112860": {
+      "base_score": 9.3,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.626242"
+    },
+    "CVE-2026-115547": {
+      "base_score": 9.1,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.627063"
+    },
+    "CVE-2026-107685": {
+      "base_score": 9.1,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.627869"
+    },
+    "CVE-2026-94267": {
+      "base_score": 9.0,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.628669"
+    },
+    "CVE-2025-30046": {
+      "base_score": 9.0,
+      "severity": "CRITICAL",
+      "discovered_at": "2026-10-24T01:16:08.629519"
+    },
+    "CVE-2025-30052": {
+      "base_score": 8.8,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.630321"
+    },
+    "CVE-2026-89320": {
+      "base_score": 8.8,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.631160"
+    },
+    "CVE-2026-56832": {
+      "base_score": 8.8,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.631962"
+    },
+    "CVE-2026-19678": {
+      "base_score": 8.7,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.632804"
+    },
+    "CVE-2026-86055": {
+      "base_score": 8.7,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.633775"
+    },
+    "CVE-2026-93489": {
+      "base_score": 8.7,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.634623"
+    },
+    "CVE-2026-16762": {
+      "base_score": 8.7,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.635469"
+    },
+    "CVE-2026-112904": {
+      "base_score": 8.7,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.636356"
+    },
+    "CVE-2026-75779": {
+      "base_score": 8.6,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.637193"
+    },
+    "CVE-2025-30045": {
+      "base_score": 8.6,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.638078"
+    },
+    "CVE-2026-112837": {
+      "base_score": 8.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.638909"
+    },
+    "CVE-2025-30049": {
+      "base_score": 8.2,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.639753"
+    },
+    "CVE-2026-115546": {
+      "base_score": 8.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.640685"
+    },
+    "CVE-2026-94262": {
+      "base_score": 8.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.641559"
+    },
+    "CVE-2026-94268": {
+      "base_score": 8.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.642425"
+    },
+    "CVE-2026-115727": {
+      "base_score": 8.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.643320"
+    },
+    "CVE-2026-115726": {
+      "base_score": 7.8,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.644205"
+    },
+    "CVE-2026-75775": {
+      "base_score": 7.7,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.645181"
+    },
+    "CVE-2026-115484": {
+      "base_score": 7.6,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.646078"
+    },
+    "CVE-2026-115497": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.646973"
+    },
+    "CVE-2026-109936": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.647908"
+    },
+    "CVE-2026-113499": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.648825"
+    },
+    "CVE-2026-113500": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.649735"
+    },
+    "CVE-2026-112359": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.650708"
+    },
+    "CVE-2026-56833": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.651617"
+    },
+    "CVE-2026-56834": {
+      "base_score": 7.5,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.652579"
+    },
+    "CVE-2026-115723": {
+      "base_score": 7.4,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.653517"
+    },
+    "CVE-2026-109198": {
+      "base_score": 7.2,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.654436"
+    },
+    "CVE-2026-107858": {
+      "base_score": 7.2,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.655491"
+    },
+    "CVE-2026-111982": {
+      "base_score": 7.2,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.657395"
+    },
+    "CVE-2026-115486": {
+      "base_score": 7.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.658388"
+    },
+    "CVE-2025-30043": {
+      "base_score": 7.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.659336"
+    },
+    "CVE-2026-112835": {
+      "base_score": 7.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.660327"
+    },
+    "CVE-2026-112838": {
+      "base_score": 7.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.661313"
+    },
+    "CVE-2026-25716": {
+      "base_score": 7.1,
+      "severity": "HIGH",
+      "discovered_at": "2026-10-24T01:16:08.662313"
     }
   },
   "processed_news": {
@@ -531,6 +776,71 @@
       "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "source": "The Hacker News",
       "discovered_at": "2026-10-23T11:33:49.961349"
+    },
+    "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html": {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "source": "The Hacker News",
+      "discovered_at": "2026-10-24T01:16:08.663353"
+    },
+    "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html": {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "source": "The Hacker News",
+      "discovered_at": "2026-10-24T01:16:08.664322"
+    },
+    "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html": {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "source": "The Hacker News",
+      "discovered_at": "2026-10-24T01:16:08.665453"
+    },
+    "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html": {
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "source": "The Hacker News",
+      "discovered_at": "2026-10-24T01:16:08.666463"
+    },
+    "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/": {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "source": "BleepingComputer",
+      "discovered_at": "2026-10-24T01:16:08.667556"
+    },
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/": {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "source": "BleepingComputer",
+      "discovered_at": "2026-10-24T01:16:08.668575"
+    },
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/": {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "source": "BleepingComputer",
+      "discovered_at": "2026-10-24T01:16:08.669631"
+    },
+    "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/": {
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "source": "BleepingComputer",
+      "discovered_at": "2026-10-24T01:16:08.670628"
+    },
+    "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/": {
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "source": "BleepingComputer",
+      "discovered_at": "2026-10-24T01:16:08.671634"
+    },
+    "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/": {
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "source": "BleepingComputer",
+      "discovered_at": "2026-10-24T01:16:08.672746"
+    },
+    "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/": {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "source": "BleepingComputer",
+      "discovered_at": "2026-10-24T01:16:08.673769"
+    },
+    "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/": {
+      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+      "source": "SecurityWeek",
+      "discovered_at": "2026-10-24T01:16:08.674841"
+    },
+    "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/": {
+      "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+      "source": "SecurityWeek",
+      "discovered_at": "2026-10-24T01:16:08.675865"
     }
   }
 }
